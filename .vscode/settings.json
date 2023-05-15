@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    ".eslintignore": true,
+    ".eslintrc": true,
+    ".gitignore": true,
+    ".prettierignore": true,
+    ".prettierrc": true,
+    "dist": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "package.json": true,
+    "tsconfig.json": true
+  }
+}
